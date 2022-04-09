@@ -1,0 +1,37 @@
+﻿Dinge, die ich in den ATM noch einbauen oder beheben will:
+
+Beheben: 
+
+// "Ungültige Zahl" verschwindet, wenn man erneut abheben/einzahlen will
+// Kontostand Knopf zeigt € Symbol an + übernimmt neuen Wert nach Einzahlen/Auszahlen
+// Labelnamen sollen nicht verschwinden, wenn man auf Löschen klickt
+// Man kann bei PIN-Abfrage nur 4 Zahlen eingeben
+// Mtl Rate und Insgesamter Betrag Textboxen als readonly einstellen
+// sauberer Coden (Eigene Funktion für Löschen von Texten und Zahleneingabe erstellen)
+// aus Versehen erstellte, ungenutze Elemente entfernen
+// oben definierte Variablen überprüfen, ob sie noch notwendig sind
+// Man kann nur Zahlen eintippen, wenn eine Option vorher ausgewählt wurde
+// nur Zahlen bei Darlehen eingebbar
+// zu große Zahl crasht Programm --> Größe der eingebbaren Zahlen beschränken (bis 1.000.000 bei Darlehensbetrag maximal)
+// stürzt ab, wenn man 2 mal auf Leihen drückt
+// wenn man von Darlehen auf andere Knöpfe drückt schließt sich das Leihfenster
+// alten Kontostand definieren
+// man kann keine Zahlen mehr löschen (Zeichen war falschrum)
+// Kontostände sind beim Einzahlen beim Beleg falsch
+// Im Beleg werden die korrekten Kontodaten angezeigt Zahl bei Laufdauer kann nicht größer als 30 sein
+// Man kann Beleg nur öffnen, wenn die PIN eingegeben wurde
+// man kann bei Leihen bei der Zinshöhe nur 2 Stellen eingeben 
+// 20% maximal
+
+
+Einfügen:
+
+// Einzahl-Feature
+// Möglichkeit, sich Quittung nach Ein/Auszahlen anzuzeigen
+//Kontostand Knopf übernimmt neuen Wert nach Einzahlen/Auszahlen
+// Löschen entfernt nicht alle Zeichen, sondern nur das letzte
+// Konto wird "gesperrt", sobald PIN 3 mal falsch eingegeben wurde
+// Datum der Transaktion auf Beleg
+// Beleg Knopf wird nach erfolgreicher Transaktion sichtbar
+//Punkt bei großen Zahlen (10.000)
+
